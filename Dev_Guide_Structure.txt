@@ -1,0 +1,43 @@
+Dev Guide Structure
+
+1. Introduction
+
+- Purpose
+- Overview of the Project
+- Target Audience
+
+2. Project Setup
+
+- Prerequisites
+- Installation Instructions
+- Configuration Settings
+
+3. Coding Standards
+
+- Naming Conventions
+- Code Style Guidelines
+- Best Practices
+
+4. Testing
+
+- Unit Testing
+- Integration Testing
+- Test Coverage
+
+5. Deployment
+
+- Deployment Process
+- Continuous Integration / Continuous Deployment (CI/CD)
+- Rollback Procedures
+
+6. Troubleshooting
+
+- Common Issues
+- Debugging Tips
+- Error Handling
+
+7. Additional Resources
+
+- External Documentation
+- Links to Tools or Libraries
+- Tutorials and Articles
