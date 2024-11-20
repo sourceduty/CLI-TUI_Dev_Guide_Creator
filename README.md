@@ -27,6 +27,14 @@ The tone of Dev Guide Maker is professional yet approachable, striking a balance
 [Python](https://github.com/sourceduty/Python)
 <br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[OS Developer](https://github.com/sourceduty/OS_Developer)
+<br>
+[Program Generator](https://github.com/sourceduty/Program_Generator)
+<br>
+[Development Organizer](https://github.com/sourceduty/Development_Organizer)
+<br>
+[Format Developer](https://github.com/sourceduty/Format_Developer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
