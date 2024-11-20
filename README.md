@@ -1,4 +1,4 @@
-![Dev Guide](https://github.com/user-attachments/assets/81c4ee8c-583c-4ac3-b187-fa762cd9dfae)
+![Dev Guidance](https://github.com/user-attachments/assets/20e9ea58-f820-438f-8ca2-bcf0658f881b)
 
 > Detailed instructions, best practices, and coding standards for program development.
 #
@@ -16,6 +16,8 @@ The structure of a dev guide is designed to provide a clear, organized flow of i
 
 #
 ### Custom GPT
+
+![Dev Guide](https://github.com/user-attachments/assets/81c4ee8c-583c-4ac3-b187-fa762cd9dfae)
 
 [Dev Guidance](https://chatgpt.com/g/g-673dda5313788191ac41a8a4592f33d7-dev-guidance) is a specialized assistant designed to help users create comprehensive and effective development guides, tutorials, and documentation. Its primary goal is to provide structured, easy-to-follow instructions tailored to diverse audiences, whether they are seasoned developers, beginners, or non-technical stakeholders. This GPT emphasizes clarity and precision in all its responses, ensuring the content is professional, approachable, and adaptable to the user’s specific needs. It supports users by suggesting templates, providing formatting advice, and assisting in structuring information to improve readability and understanding.
 
