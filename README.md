@@ -1,6 +1,6 @@
 ![Dev Guidance](https://github.com/user-attachments/assets/20e9ea58-f820-438f-8ca2-bcf0658f881b)
 
-> Detailed instructions, best practices, and coding standards for program development.
+> Assistive CLI-TUI program dev guide creator.
 #
 
 A dev guide (developer guide) is a document that provides detailed instructions, best practices, and coding standards for developers working on a specific project, application, or system. It serves as a comprehensive reference for the development process and helps ensure consistency across codebases, reducing confusion and errors during the development lifecycle. It typically includes guidelines on architecture, coding practices, testing procedures, deployment, and more, to help both new and experienced developers understand the workflow and requirements of the project.
@@ -8,6 +8,13 @@ A dev guide (developer guide) is a document that provides detailed instructions,
 A well-structured dev guide should be clear, concise, and logically organized to allow developers to quickly find the information they need. The guide should begin with an introduction that explains the purpose of the guide and the project, followed by sections detailing setup instructions, coding conventions, testing strategies, deployment processes, and troubleshooting tips. It should also include links to external resources, code samples, and relevant documentation to support development efforts. To ensure usability, the guide should be kept up to date with each new version of the project or system.
 
 The formatting of a dev guide should be consistent and easy to follow. It should use headings and subheadings to break down the content into digestible sections. Code examples should be clearly distinguished from the text, and any configuration or setup steps should be presented step-by-step. Diagrams and flowcharts can also be included to visualize complex workflows or architecture designs. Each section should be concise, with enough detail to be actionable, and should provide references to additional resources where necessary.
+
+#
+### Custom CLI-TUI Program Dev Guide
+
+Custom CLI-TUI program dev guides are a Python-based tools designed to facilitate the step-by-step development of Python programs. Specifically tailored for creating a Notepad Program, this guide allows developers to iteratively build Python applications with clear workflows. The tool functions as a terminal-based development environment, enabling users to define a project structure, add functional features, design an intuitive interface, and configure essential file management operations. Through its modular design, the guide ensures that each component of the Notepad program, such as creating, editing, saving, and deleting notes, is implemented seamlessly within Python's ecosystem.
+
+The guide employs interactive menus and predefined code templates to help developers integrate features directly into their programs. Each stage, from adding core features to testing and debugging, is streamlined for efficiency. For instance, users can dynamically append Python functions to their project file, such as those for note handling, while being guided on how to configure and test the implementation. By leveraging Python's readability and modular capabilities, this development terminal not only simplifies the creation of a fully functional Notepad program but also serves as a reusable framework for building other Python-based CLI-TUI applications, ensuring adaptability and scalability for diverse development needs.
 
 #
 ### Dev Guide Structure
@@ -19,9 +26,9 @@ The structure of a dev guide is designed to provide a clear, organized flow of i
 
 ![Dev Guide](https://github.com/user-attachments/assets/81c4ee8c-583c-4ac3-b187-fa762cd9dfae)
 
-[Dev Guidance](https://chatgpt.com/g/g-673dda5313788191ac41a8a4592f33d7-dev-guidance) is a specialized assistant designed to help users create comprehensive and effective development guides, tutorials, and documentation. Its primary goal is to provide structured, easy-to-follow instructions tailored to diverse audiences, whether they are seasoned developers, beginners, or non-technical stakeholders. This GPT emphasizes clarity and precision in all its responses, ensuring the content is professional, approachable, and adaptable to the user’s specific needs. It supports users by suggesting templates, providing formatting advice, and assisting in structuring information to improve readability and understanding.
+[CLI-TUI Dev Guide Creator](https://chatgpt.com/g/g-673dda5313788191ac41a8a4592f33d7-cli-tui-dev-guide-creator) is a Python-based interactive development guide designed to streamline the creation of command-line and text-user interface (CLI-TUI) programs, specifically focusing on a Notepad application. It operates as a terminal-based development tool that guides users step-by-step through setting up the project structure, implementing core functionalities (like creating, editing, saving, and deleting notes), and testing the final product. By leveraging Python's modularity and simplicity, this guide helps users dynamically append features to their program and seamlessly integrates key components. Its goal is to make the development process accessible, structured, and efficient for both beginners and seasoned developers.
 
-The tone of Dev Guide Maker is professional yet approachable, striking a balance that makes it suitable for a wide range of contexts. Whether drafting technical manuals, creating user-friendly tutorials, or designing documentation for new software, it excels at making complex concepts accessible and digestible. If information is missing or unclear, it asks clarifying questions in a structured, step-by-step manner to ensure the content is accurate and complete. Its ability to suggest logical completions and guide users through the process streamlines the workflow, enabling efficient and high-quality documentation creation.
+The GPT combines interactive menus, predefined templates, and clear instructions to ensure a smooth development experience. It not only supports iterative feature addition but also includes a built-in debugging and testing workflow. Developers can utilize it to create a scalable and reusable CLI-TUI framework that extends beyond the Notepad program, facilitating broader use cases. This makes the tool a versatile and adaptable solution for constructing Python-based applications with user-friendly interfaces.
 
 #
 ### Related Links
