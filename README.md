@@ -12,6 +12,8 @@ The formatting of a dev guide should be consistent and easy to follow. It should
 #
 ### Custom CLI-TUI Program Dev Guide
 
+![Hacker](https://github.com/user-attachments/assets/ed1f39fc-dbd0-4a2b-a203-c2bb5c0e2a0c)
+
 Custom CLI-TUI program dev guides are a Python-based tools designed to facilitate the step-by-step development of Python programs. Specifically tailored for creating a Notepad Program, this guide allows developers to iteratively build Python applications with clear workflows. The tool functions as a terminal-based development environment, enabling users to define a project structure, add functional features, design an intuitive interface, and configure essential file management operations. Through its modular design, the guide ensures that each component of the Notepad program, such as creating, editing, saving, and deleting notes, is implemented seamlessly within Python's ecosystem.
 
 The guide employs interactive menus and predefined code templates to help developers integrate features directly into their programs. Each stage, from adding core features to testing and debugging, is streamlined for efficiency. For instance, users can dynamically append Python functions to their project file, such as those for note handling, while being guided on how to configure and test the implementation. By leveraging Python's readability and modular capabilities, this development terminal not only simplifies the creation of a fully functional Notepad program but also serves as a reusable framework for building other Python-based CLI-TUI applications, ensuring adaptability and scalability for diverse development needs.
